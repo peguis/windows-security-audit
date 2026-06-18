@@ -48,7 +48,7 @@ Pesquisar e documentar:
 Diferença entre usuário padrão e administrador
 Princípio do menor privilégio
 
-Etapa 7 — MFA e Senhas
+Etapa 7 — MFA e Senhas FEITO
 Verificar:
 Conta Microsoft possui MFA
 Conta Google possui MFA
@@ -56,7 +56,7 @@ Documentar:
 Importância da autenticação multifator
 Boas práticas de senhas
 
-Etapa 8 — Programas Instalados
+Etapa 8 — Programas Instalados FEITO
 Identificar:
 Navegador principal
 Antivírus
