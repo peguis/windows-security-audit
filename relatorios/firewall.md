@@ -1,5 +1,7 @@
 # Auditoria de Firewall
 
+![firewall](../evidencias/firewall.png)
+
 ## Verificação
 
 - Firewall habilitado: Sim

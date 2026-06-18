@@ -1,5 +1,7 @@
 # Windows Update
 
+![evidência](../evidencias/Windows_update.png)
+
 ## Status
 
 Sistema atualizado: Sim

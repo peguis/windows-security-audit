@@ -64,7 +64,7 @@ Aplicativos de acesso remoto
 Programas desnecessários
 Documentar observações.
 
-Etapa 9 — Conceitos de Segurança
+Etapa 9 — Conceitos de Segurança FEITO
 Explicar:
 Confidencialidade
 Integridade
@@ -75,7 +75,7 @@ MFA
 Atualizações
 Controle de acesso
 
-Etapa 10 — Simulação de Incidentes
+Etapa 10 — Simulação de Incidentes FEITO
 Criar cenário:
 Caso 1
 Computador infectado por malware
@@ -90,7 +90,7 @@ Conta comprometida
 Como agir
 Como recuperar acesso
 
-Etapa 11 — README Profissional
+Etapa 11 — README Profissional FEITO
 Adicionar:
 Objetivo
 Escopo da auditoria
@@ -99,13 +99,13 @@ Conceitos estudados
 Recomendações
 Aprendizados
 
-Etapa 12 — GitHub
-Primeiro commit (feito)
+Etapa 12 — GitHub FEITO
+Primeiro commit 
 Commit das evidências
 Commit da documentação
 Commit final
 
-Etapa 13 — LinkedIn
+Etapa 13 — LinkedIn FEITO
 Publicação do projeto
 Link do GitHub
 Aprendizados obtidos

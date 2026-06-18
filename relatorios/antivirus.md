@@ -1,5 +1,8 @@
 # Auditoria de Antivírus
 
+
+![antivirus](../evidencias/antivirus.png)
+
 ## Verificação
 
 - Microsoft Defender ativo

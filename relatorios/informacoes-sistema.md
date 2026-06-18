@@ -2,6 +2,8 @@
 
 Data da auditoria: 14/06/2026
 
+![informações_do_pc](../evidencias/informações_do_pc.png)
+
 ## Equipamento
 
 Nome do computador:
